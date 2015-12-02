@@ -16,9 +16,13 @@ title: IoT 워크샵
     1. [데이터베이스 SQL: Sqlite](http://swcarpentry.xwmooc.org/lessons-5-2/novice/sql/index.html)
 1. IoT
     1. [라즈베리 파이](http://raspberry-pi.xwmooc.org/)
-    1. [$100 오픈 컴퓨터](http://computer.xwmooc.org/)
+        1. [센서](http://statkclee.github.io/raspberry-pi/sensor.html)
     1. [IBM IoT 클라우드](https://console.ng.bluemix.net/)
 1. 스타트업
+    1. [스타트업 사례: $100 오픈 컴퓨터](http://computer.xwmooc.org/)
+    1. [소프트웨어 제품과 서비스](software-product-service.html)
+    1. [소프트웨어 제조](software-manufacuring.html)
+    1. [컴퓨터 원가](computer-cost-structure.html)
 
 ### 참고자료
 
