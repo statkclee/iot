@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IoT 워크샵 
+title: 3일만에 30년전 3보컴퓨터같은 컴퓨터회사를 설립하는 IoT 비밀 워크샵 
 ---
 
 ### {.getready}
@@ -9,20 +9,21 @@ title: IoT 워크샵
 
 ### 목차
 
-1. 기본 컴퓨팅 기술
+1. 기본 컴퓨팅 기술 (1일차)
     1. [작업자동화: 유닉스쉘](http://swcarpentry.xwmooc.org/lessons-5-2/novice/shell/index.html)
     1. [이력관리와 협업: Git/GitHub](http://swcarpentry.xwmooc.org/lessons-5-2/novice/git/index.html)
     1. [추상화와 모듈화: R/파이썬](http://swcarpentry.xwmooc.org/lessons-5-2/novice/r/index.html)
     1. [데이터베이스 SQL: Sqlite](http://swcarpentry.xwmooc.org/lessons-5-2/novice/sql/index.html)
-1. IoT
+1. IoT (2일차)
     1. [라즈베리 파이](http://raspberry-pi.xwmooc.org/)
         1. [센서](http://statkclee.github.io/raspberry-pi/sensor.html)
     1. [IBM IoT 클라우드](https://console.ng.bluemix.net/)
-1. 스타트업
+1. 3일만에 30년전 3보 컴퓨터같은 IoT 스타트업 만들기
     1. [스타트업 사례: $100 오픈 컴퓨터](http://computer.xwmooc.org/)
     1. [소프트웨어 제품과 서비스](software-product-service.html)
     1. [소프트웨어 제조](software-manufacuring.html)
-    1. [컴퓨터 원가](computer-cost-structure.html)
+    1. [컴퓨터 원가관리](computer-cost-structure.html)
+    1. [지적재산권(IP)](computer-cost-structure.html)
 
 ### 참고자료
 
