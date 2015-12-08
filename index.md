@@ -1,41 +1,62 @@
 ---
 layout: page
-title: 3일만에 30년전 3보컴퓨터같은 컴퓨터회사를 설립하는 IoT 비밀 워크샵 
+title: 경영학도를 위한 IoT 창업 워크샵
+subtitle: 30년전 3보컴퓨터같은 회사를 3일만에 배우는 스타트업 실전 창업 IoT
 ---
 
 ### {.getready}
 - 일시: 2015년 12월 21-23일
 - 장소: 영남대학교
+- 준비물: 노트북
 
 ### 목차
 
-1. 기본 컴퓨팅 기술 (1일차)
+1. 경영학도를 위한 스타트업 기본 (1일차)
+    1. [스타트업 사례: xwMOOC $100 오픈 컴퓨터](http://computer.xwmooc.org/)
+        - [소프트웨어 제품과 서비스](software-product-service.html): 준비중
+        - [소프트웨어 제조](software-manufacuring.html): 준비중
+        - [컴퓨터 원가관리](computer-cost-structure.html): 준비중
+    1. [지적재산권(IP)](http://statkclee.github.io/open-source-for-business/): 특허, 상표, 저작권, 라이선스
+    1. 컴퓨터적 사고(Computational Thinking)
+         - 컴퓨터과학 언플러그드 [^1]
+         - 러플/리보그 [^2]
+         - 파이썬 터틀 [^3] [^4]
+1. 기본 컴퓨팅 기술 (2일차)
     1. [작업자동화: 유닉스쉘](http://swcarpentry.xwmooc.org/lessons-5-2/novice/shell/index.html)
     1. [이력관리와 협업: Git/GitHub](http://swcarpentry.xwmooc.org/lessons-5-2/novice/git/index.html)
     1. [추상화와 모듈화: R/파이썬](http://swcarpentry.xwmooc.org/lessons-5-2/novice/r/index.html)
     1. [데이터베이스 SQL: Sqlite](http://swcarpentry.xwmooc.org/lessons-5-2/novice/sql/index.html)
-1. IoT (2일차)
-    1. [라즈베리 파이](http://raspberry-pi.xwmooc.org/)
+    1. 데이터 과학
+        - [통계적 사고](http://think-stat.xwmooc.org/)
+        - [R 팩키지](http://r-pkgs.xwmooc.org/)
+        - [공개통계학 개론](https://github.com/statkclee/openintro-statistics)
+1. 스타트업을 위한 IoT (3일차)
+    1. [라즈베리 파이 IoT](http://raspberry-pi.xwmooc.org/)
         1. [센서](http://statkclee.github.io/raspberry-pi/sensor.html)
-    1. [IBM IoT 클라우드](https://console.ng.bluemix.net/)
-1. 3일만에 30년전 3보 컴퓨터같은 IoT 스타트업 만들기
-    1. [스타트업 사례: $100 오픈 컴퓨터](http://computer.xwmooc.org/)
-    1. [소프트웨어 제품과 서비스](software-product-service.html)
-    1. [소프트웨어 제조](software-manufacuring.html)
-    1. [컴퓨터 원가관리](computer-cost-structure.html)
-    1. [지적재산권(IP)](computer-cost-structure.html)
+        1. [IoT 데이터 수집](http://statkclee.github.io/raspberry-pi/iot-fluentd.html)
+        1. [가상화](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual.html)
+        1. [가상상자(VirtualBox)와 부랑자(Vagrant)](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual-window.html)
+    1. [오픈소스기반 웹서비스 개발](http://statkclee.github.io/raspberry-pi/reeborg.html)
+    1. 다큐먼트 퍼블리싱
+        - [LaTeX](http://statkclee.github.io/raspberry-pi/latex.html)
+        - [파이썬 스핑크스: 마크다운](http://statkclee.github.io/raspberry-pi/latex-sphinx.html)
+        - [R 마크다운: Pandoc](http://statkclee.github.io/pyr-cloudlayer/04-docker-r-pkgs.html)
+    1. [xwMOOC $100 오픈컴퓨터](http://computer.xwmooc.org/)        
+    1. [IBM IoT 클라우드](http://statkclee.github.io/pyr-cloudlayer/)
 
 ### 참고자료
 
-*   [$100 달러 오픈 컴퓨터](http://computer.xwmooc.org) : [$100 달러 오픈 컴퓨터 워크샵](https://public.etherpad-mozilla.org/p/open-computer)
-*   [컴퓨터과학 언플러그드](http://unplugged.xwmooc.org)
-*   [러플(Rur-ple)](http://rur-ple.xwmooc.org/)
-*   파이썬 거북이
-    * [소프트웨어 카펜트리 거북이 (영문)](http://swcarpentry.github.io/python-novice-turtles/)
-    * [소프트웨어 카펜트리 거북이 (국문)](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)
-*   [정보교육을 위한 파이썬](http://python.xwmooc.org/)
-*   [라즈베리 파이](http://raspberry-pi.xwmooc.org/)
-*   [소프트웨어 카펜트리](http://swcarpentry.xwmooc.org)
-*   [R 팩키지](http://r-pkgs.xwmooc.org/)
-*   [통계적 사고](http://r-pkgs.xwmooc.org/)
+- 한국통계진흥원에서 발간 [통계의 창 (2015년 여름호)](http://sti.kostat.go.kr/)
+    - 통계교육원 > 열린교육방 > e-book 게시판
+    - [미래인재 데이터과학지: 교육사례중심](./xwMOOC.pdf)
+    - [전체 다운로드(100MB)](http://sti.kostat.go.kr/coresti/site/board/fileDownLoad.do?file_name=1&nots_seq=2046)
 
+- [강서양천신문](http://www.gynews.net/) '15년 9월
+    - [기고, 컴퓨터 사고력과 소프트웨어 교육](http://www.gynews.net/bbs/bbs.asp?exe=view&group_name=104&section=7&category=0&idx_num=19311&page=1&search_category=&search_word=&order_c=bd_idx_num&order_da=desc)
+    - [기고, 글을 쓰는 것은 소프트웨어 개발이다!](http://www.gynews.net/bbs/bbs.asp?exe=view&group_name=104&section=7&category=0&idx_num=19140&page=1&search_category=&search_word=&order_c=bd_idx_num&order_da=desc)
+ 
+
+[^1]: [컴퓨터과학 언플러그드](http://unplugged.xwmooc.org)
+[^2]: [러플(Rur-ple)](http://rur-ple.xwmooc.org/)
+[^3]: [소프트웨어 카펜트리 거북이 (영문)](http://swcarpentry.github.io/python-novice-turtles/)
+[^4]: [소프트웨어 카펜트리 거북이 (국문)](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)
