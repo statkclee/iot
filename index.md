@@ -1,13 +1,15 @@
 ---
 layout: page
-title: 경영학도를 위한 IoT 창업 워크샵
-subtitle: 30년전 3보컴퓨터같은 회사를 3일만에 배우는 스타트업 실전 창업 IoT
+title: 스타트업을 향한 빅데이터, IoT 기술 
+subtitle: 경영학도를 위한 IoT 창업 워크샵
 ---
 
 ### {.getready}
 - 일시: 2015년 12월 21-23일
-- 장소: 영남대학교
+- 장소: 영남대학교 경영학과
 - 준비물: 노트북
+
+<img src="fig/iot-overview.png" width="70%" />
 
 ### 목차
 
