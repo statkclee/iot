@@ -19,10 +19,10 @@ subtitle: 경영학도를 위한 IoT 창업 워크샵
         - [소프트웨어 제조](software-manufacuring.html): 준비중
         - [컴퓨터 원가관리](computer-cost-structure.html): 준비중
     1. [지적재산권(IP)](http://statkclee.github.io/open-source-for-business/): 특허, 상표, 저작권, 라이선스
-    1. 컴퓨터적 사고(Computational Thinking)
+    1. [컴퓨터적 사고(Computational Thinking)](http://statkclee.github.io/dreamtalk/)
          - 컴퓨터과학 언플러그드 [^1]
-         - 러플/리보그 [^2]
-         - 파이썬 터틀 [^3] [^4]
+         - 러플 [^2] / 리보그 [^3]
+         - 파이썬 터틀 [^4] [^5]
 1. 기본 컴퓨팅 기술 (2일차)
     1. [작업자동화: 유닉스쉘](http://swcarpentry.xwmooc.org/lessons-5-2/novice/shell/index.html)
     1. [이력관리와 협업: Git/GitHub](http://swcarpentry.xwmooc.org/lessons-5-2/novice/git/index.html)
@@ -34,16 +34,21 @@ subtitle: 경영학도를 위한 IoT 창업 워크샵
         - [공개통계학 개론](https://github.com/statkclee/openintro-statistics)
 1. 스타트업을 위한 IoT (3일차)
     1. [라즈베리 파이 IoT](http://raspberry-pi.xwmooc.org/)
-        1. [센서](http://statkclee.github.io/raspberry-pi/sensor.html)
-        1. [IoT 데이터 수집](http://statkclee.github.io/raspberry-pi/iot-fluentd.html)
-        1. [가상화](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual.html)
-        1. [가상상자(VirtualBox)와 부랑자(Vagrant)](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual-window.html)
-    1. [오픈소스기반 웹서비스 개발](http://statkclee.github.io/raspberry-pi/reeborg.html)
+        1. [개발환경 WebIDE](http://statkclee.github.io/raspberry-pi/iot-webide.html)
+        1. [센서(ADC)](http://statkclee.github.io/raspberry-pi/sensor.html)        
+        1. [웹 데이터(REST)](http://statkclee.github.io/web-data-python/)
+        1. [R: RStudio와 Shiny](http://statkclee.github.io/raspberry-pi/iot-rstudio-shiny.html)
+            - [ARM 프로세서 가상화](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual.html)
+            - [가상상자(VirtualBox)와 부랑자(Vagrant)](http://statkclee.github.io/raspberry-pi/raspberry-pi-virtual-window.html)
+    1. 사례 분석            
+        1. [사례: 초음파 센서와 파이켐](http://statkclee.github.io/raspberry-pi/iot-pi-cam.html)
+        1. [사례: 오픈소스기반 웹서비스 개발](http://statkclee.github.io/raspberry-pi/reeborg.html)
     1. 다큐먼트 퍼블리싱
         - [LaTeX](http://statkclee.github.io/raspberry-pi/latex.html)
         - [파이썬 스핑크스: 마크다운](http://statkclee.github.io/raspberry-pi/latex-sphinx.html)
         - [R 마크다운: Pandoc](http://statkclee.github.io/pyr-cloudlayer/04-docker-r-pkgs.html)
-    1. [xwMOOC $100 오픈컴퓨터](http://computer.xwmooc.org/)        
+    1. [xwMOOC $100 오픈컴퓨터](http://computer.xwmooc.org/)
+        - [$100 오픈 컴퓨터 워크샵](http://statkclee.github.io/ocworkshop/)
     1. [IBM IoT 클라우드](http://statkclee.github.io/pyr-cloudlayer/)
 
 ### 참고자료
@@ -60,5 +65,6 @@ subtitle: 경영학도를 위한 IoT 창업 워크샵
 
 [^1]: [컴퓨터과학 언플러그드](http://unplugged.xwmooc.org)
 [^2]: [러플(Rur-ple)](http://rur-ple.xwmooc.org/)
-[^3]: [소프트웨어 카펜트리 거북이 (영문)](http://swcarpentry.github.io/python-novice-turtles/)
-[^4]: [소프트웨어 카펜트리 거북이 (국문)](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)
+[^3]: [리보그(Reeborg)](http://reeborg.xwmooc.org/), [Reeborg in Canada](http://reeborg.ca/docs/kr/)
+[^4]: [소프트웨어 카펜트리 거북이 (영문)](http://swcarpentry.github.io/python-novice-turtles/)
+[^5]: [소프트웨어 카펜트리 거북이 (국문)](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)
