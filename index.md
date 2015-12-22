@@ -5,11 +5,15 @@ subtitle: 경영학도를 위한 IoT 창업 워크샵
 ---
 
 ### {.getready}
-- 일시: 2015년 12월 21-23일
+- 일시: 2015년 12월 22-24일
 - 장소: 영남대학교 본교(경산) 상경관 신관 156호 전산실, <a href="http://maps.google.com/maps?q=35.832846, 128.755975">구글지도</a>
 - 준비물: 노트북
 
 <img src="fig/iot-overview.png" width="70%" />
+
+### IoT  워크샵 위키, 채팅, 공유 서비스
+[여기를 클릭해 주세요!](https://public.etherpad-mozilla.org/p/iot-yn)
+
 
 ### 목차
 
