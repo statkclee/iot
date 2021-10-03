@@ -1,5 +1,5 @@
 PANDOC ?= pandoc
-PANDOC_FLAGS = --smart
+# PANDOC_FLAGS = --smart
 
 # R Markdown files.
 SRC_RMD = $(wildcard ??-*.Rmd)
@@ -48,7 +48,6 @@ preview : $(DST_ALL)
 # Pattern to build a generic page.
 %.html : %.md _layouts/page.html $(FILTERS)
 	${PANDOC} -s -t html \
-	    ${PANDOC_FLAGS} \
 	    --template=_layouts/page \
 	    --filter=tools/filters/blockquote2div.py \
 	    --filter=tools/filters/id4glossary.py \
