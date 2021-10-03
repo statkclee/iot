@@ -55,6 +55,7 @@ subtitle: 경영학도를 위한 IoT 창업 워크샵
         - [$100 오픈 컴퓨터 워크샵](http://statkclee.github.io/ocworkshop/)
     1. [IBM IoT 클라우드](http://statkclee.github.io/pyr-cloudlayer/)
 1. [아두이노 (맥)](mac-helloworld.html)
+    - [전류 생산 모니터링](mac-solar.html)
 
 <img src="fig/iot-monetization.png" width="70%" />
 
